@@ -1,4 +1,4 @@
-[(https://imgur.com/Ko2Fpxj)](https://youtu.be/0GJBYLPPLp8)
+[(https://i.imgur.com/Ko2Fpxj.jpg)](https://youtu.be/0GJBYLPPLp8)
 
 # PowerWheels Jeep and Lightning McQueen Upgrades
 Repository for all code and wiring for the project found in the video above. 
