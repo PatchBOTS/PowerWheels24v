@@ -1,4 +1,4 @@
-[![PW24v(https://imgur.com/Ko2Fpxj)](https://youtu.be/0GJBYLPPLp8)
+[[PW24v(https://imgur.com/Ko2Fpxj)](https://youtu.be/0GJBYLPPLp8)
 
 # PowerWheels Jeep and Lightning McQueen Upgrades
 Repository for all code and wiring for the project found in the video above. 
